@@ -17,8 +17,8 @@ Atualmente, estudo **Desenvolvimento Web Full Stack** e **UX/UI Design**, explor
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arletedelira-TI&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arletedelira-TI&theme=tokyonight"/>
 </div>
 
 ---
@@ -26,7 +26,7 @@ Atualmente, estudo **Desenvolvimento Web Full Stack** e **UX/UI Design**, explor
 ## 🐍 A cobrinha dos meus commits
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/arletedelira-TIO/arletedelira-TI/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
 ---
