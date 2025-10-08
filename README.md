@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Roadmap de tecnologias para estudar</p>
+<p align="left">Roadmap de tecnologias para estudar:</p>
 
 ###
 
