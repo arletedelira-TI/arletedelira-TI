@@ -1,25 +1,22 @@
-<h1 align="center">👾 Bem-vinda(o) ao meu universo digital 👾</h1>
 
-<p align="center">💡 Criando soluções entre o mundo real e o virtual 💡</p>
-
----
-
-### ⚙️ Stack de Habilidades
+### 🛠️ Tecnologias & Ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,python,html,css,js,mongodb,figma,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cs,mysql,linux,windows" /><br/>
+  <img src="https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 </div>
 
 ---
 
-### 🔥 Meus Stats
+### 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arletedelira-TI&show_icons=true&theme=neon"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arletedelira-TI&theme=neon"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arletedelira-TI&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arletedelira-TI&theme=tokyonight"/>
 </div>
 
 ---
 
-### 🐍 Snake Animation
+### 🐍 A cobrinha dos meus commits
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arletedelira-TI/arletedelira-TI/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/arletedelira-TI/arletedelira-TI/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
