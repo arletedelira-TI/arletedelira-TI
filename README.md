@@ -26,7 +26,7 @@ Atualmente, estudo **Desenvolvimento Web Full Stack** e **UX/UI Design**, explor
 ## 🐍 A cobrinha dos meus commits
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arletedelira-TIO/arletedelira-TI/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/arletedelira-TI/arletedelira-TI/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
 ---
