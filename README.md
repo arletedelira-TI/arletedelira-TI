@@ -1,3 +1,35 @@
+# 🖐️ Olá, eu sou [Seu Nome]  
+
+### 🚀 Desenvolvedora | 🌐 Web | 💡 Inovação & Tecnologia  
+
+Sou apaixonada por tecnologia, design e pela forma como o código pode transformar ideias em soluções reais.  
+Atualmente, estudo **Desenvolvimento Web Full Stack** e **UX/UI Design**, explorando sempre novas ferramentas e linguagens.  
+
+---
+
+## 🧰 Tecnologias que uso
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,python,mysql,figma,vscode" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight"/>
+</div>
+
+---
+
+## 🐍 A cobrinha dos meus commits
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
+
+---
 
 
 ###
