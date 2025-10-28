@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/Card_Arlete_D_Lira.svg" /><br/>
+  <img src="Card_Arlete_D_Lira.png" /><br/>
 
 </div>
 
