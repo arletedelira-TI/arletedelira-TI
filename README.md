@@ -86,7 +86,7 @@ Estou sempre aberta a conversas sobre análise de sistemas, projetos educacionai
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://arletedelira-ti.blogspot.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Arlete%20Delira-TI-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Leitura Técnica">
+    <img src="https://img.shields.io/badge/Arlete%20Delira-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Leitura Técnica">
   </a>
   <a href="mailto:deliraarlete@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
