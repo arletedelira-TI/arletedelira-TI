@@ -26,7 +26,7 @@ Olá! Sou **Arlete de Lira** — estudante de tecnologia, criadora de conteúdo 
 
 Minha trajetória começou de forma marcante: meu **primeiro emprego foi na Oracle como Solution Engineer**, atuando no time de pré-vendas técnica. Foram 3 anos construindo soluções em cloud e on-premises, participando de PoCs e demos técnicas — uma experiência que moldou meu pensamento analítico, minha visão estratégica e meu rigor técnico.
 
-Hoje curso **Desenvolvimento de Sistemas na ETEC**, aprofundando minha base técnica e construindo habilidades sólidas em programação, infraestrutura e desenvolvimento web. Paralelamente, sigo no caminho da **análise de dados financeiros**, conectando minha experiência com o mundo dos dados.
+Hoje curso **Desenvolvimento de Sistemas na ETEC**, aprofundando minha base técnica e construindo habilidades sólidas em programação, infraestrutura e desenvolvimento web. 
 
 Acredito que aprender a aprender é a habilidade mais poderosa do século XXI — por isso fundei o Leitura Técnica, onde produzo conteúdo livre sobre **aprendizagem autônoma**, **metacognição** e **ciências cognitivas**.
 
