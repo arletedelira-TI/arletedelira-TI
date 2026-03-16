@@ -24,7 +24,7 @@
 
 Olá! Sou **Arlete de Lira** — estudante de tecnologia, criadora de conteúdo técnico e fundadora do projeto [**Leitura Técnica**](https://leituratecnica.com.br).
 
-Minha trajetória começou de forma marcante: meu **primeiro emprego foi na Oracle**, uma das maiores empresas de tecnologia do mundo — uma experiência que moldou minha visão sobre bancos de dados, sistemas corporativos e o rigor técnico que a área exige. Foi lá que entendi, na prática, o poder da tecnologia bem aplicada.
+Minha trajetória começou de forma marcante: meu **primeiro emprego foi na Oracle como Solution Engineer**, atuando no time de pré-vendas técnica. Foram 3 anos construindo soluções em cloud e on-premises, participando de PoCs e demos técnicas — uma experiência que moldou meu pensamento analítico, minha visão estratégica e meu rigor técnico.
 
 Hoje curso **Desenvolvimento de Sistemas na ETEC**, aprofundando minha base técnica e construindo habilidades sólidas em programação, infraestrutura e desenvolvimento web. Paralelamente, sigo no caminho da **análise de dados financeiros**, conectando minha experiência com o mundo dos dados.
 
@@ -53,10 +53,10 @@ Acredito que aprender a aprender é a habilidade mais poderosa do século XXI �
 <tr>
 <td width="50%">
 
-### 🔴 Oracle
-**Primeiro emprego · Início de carreira**
+### 🔴 Oracle — Solution Engineer
+**Pré-vendas técnica · 3 anos**
 
-A Oracle foi onde tudo começou. Trabalhar em uma das maiores empresas de tecnologia do planeta logo de início foi uma imersão intensa no mundo corporativo de TI — com contato direto com **bancos de dados**, sistemas de grande escala e a cultura de excelência técnica que só uma empresa desse porte proporciona. Uma experiência que definiu meu padrão de rigor e me mostrou o que a tecnologia é capaz de fazer em escala real.
+Primeira experiência profissional em tecnologia, no time de **pré-vendas técnica** da Oracle. Atuei em soluções **on-premises e cloud híbrida**, participando de PoCs, demos técnicas e elaboração de propostas. Em 3 anos, desenvolvi habilidades em **OCI**, bancos de dados Oracle e integração de sistemas — e aprendi a traduzir desafios complexos em soluções que geram valor real.
 
 </td>
 <td width="50%">
