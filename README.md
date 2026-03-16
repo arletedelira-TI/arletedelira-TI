@@ -1,7 +1,12 @@
 <div align="center">
 
-<!-- Banner animado com SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0d0d1a&height=200&section=header&text=Arlete%20de%20Lira&fontSize=52&fontColor=c9d1ff&fontAlignY=38&desc=Educação%20·%20Tecnologia%20·%20Cognição&descSize=16&descAlignY=58&descColor=7c85d4&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d0d2b,60:1a0533,100:0a0a0f&height=280&section=header&text=ARLETE%20DE%20LIRA&fontSize=58&fontColor=00ffe5&fontAlignY=42&stroke=ff00cc&strokeWidth=2&desc=◈%20Solution%20Engineer%20·%20Dev%20Systems%20·%20Learning%20Science%20◈&descSize=14&descAlignY=62&descColor=cc66ff&animation=twinkling&reversal=false" width="100%" />
+
+</div>
+
+<div align="center">
+
+![](https://img.shields.io/badge/-%3E%3E_%20SISTEMA_INICIALIZADO_%3C%3C-00ffe5?style=flat-square&labelColor=0a0a0f)
 
 </div>
 
@@ -10,10 +15,14 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║   "A tecnologia sem aprendizado é apenas ferramenta.     ║
-║    Com aprendizado, torna-se transformação."             ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  root@leituratecnica:~$ ./iniciar_missao.sh                  ║
+║                                                              ║
+║  > "A tecnologia sem aprendizado é apenas ferramenta.        ║
+║     Com aprendizado, torna-se transformação."                ║
+║                                                              ║
+║  [STATUS]: ██████████ 100% — SISTEMA ONLINE                  ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -26,7 +35,7 @@ Olá! Sou **Arlete de Lira** — estudante de tecnologia, criadora de conteúdo 
 
 Minha trajetória começou de forma marcante: meu **primeiro emprego foi na Oracle como Solution Engineer**, atuando no time de pré-vendas técnica. Foram 3 anos construindo soluções em cloud e on-premises, participando de PoCs e demos técnicas — uma experiência que moldou meu pensamento analítico, minha visão estratégica e meu rigor técnico.
 
-Hoje curso **Desenvolvimento de Sistemas na ETEC**, aprofundando minha base técnica e construindo habilidades sólidas em programação, infraestrutura e desenvolvimento web. 
+Hoje curso **Desenvolvimento de Sistemas na ETEC**, aprofundando minha base técnica e construindo habilidades sólidas em programação, infraestrutura e desenvolvimento web. Paralelamente, sigo no caminho da **análise de dados financeiros**, conectando minha experiência com o mundo dos dados.
 
 Acredito que aprender a aprender é a habilidade mais poderosa do século XXI — por isso fundei o Leitura Técnica, onde produzo conteúdo livre sobre **aprendizagem autônoma**, **metacognição** e **ciências cognitivas**.
 
@@ -115,8 +124,8 @@ Atualmente no curso técnico de **Desenvolvimento de Sistemas na ETEC**, onde co
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1a3e,100:0f0f23&height=100&section=footer&fontColor=c9d1ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:0d0d2b,100:0a0a0f&height=120&section=footer" width="100%" />
 
-*"O aprendizado autônomo não é um destino — é o caminho."*
+`◈ — root@leituratecnica:~$ shutdown --message="até o próximo commit" — ◈`
 
 </div>
