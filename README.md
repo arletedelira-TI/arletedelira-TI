@@ -1,88 +1,63 @@
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   $ whoami                                                   ║
-║   > Arlete de Lira — estudante · criadora · analista em     ║
-║     formação                                                 ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
+  <img src="https://img.shields.io/badge/Estudante%20de%20Desenvolvimento%20de%20Sistemas-FF9800?style=for-the-badge" alt="Estudante">
+  <img src="https://img.shields.io/badge/Aspirante%20a%20Analista%20de%20Sistemas-4CAF50?style=for-the-badge" alt="Aspiração">
+  
+  <h1>👋 Olá, eu sou Arlete De Lira!</h1>
+  <p><strong>Estudante criadora • Analista em formação</strong></p>
+  <p>Profissional de tecnologia em início de carreira com <strong>3 anos de experiência</strong> em consultoria e engenharia de soluções. Acredito que <strong>tecnologia + conhecimento = transformação</strong> quando compartilhados.</p>
 </div>
 
 ---
 
-## 👩‍💻 Sobre mim
+### 🚀 Sobre mim
 
-Sou estudante de **Desenvolvimento de Sistemas** com o olhar voltado para me tornar **Analista de Sistemas**. Acredito que tecnologia e conhecimento são mais poderosos quando compartilhados, e é essa convicção que guia tudo o que faço.
+Estou cursando **Desenvolvimento de Sistemas** e meu grande objetivo é me tornar **Analista de Sistemas**. Combino prática técnica com pensamento analítico para criar soluções que realmente impactam.
 
-Antes de entrar de vez no mundo tech, passei pela **Oracle** — uma experiência que me mostrou como sistemas bem construídos transformam realidades. Dali nasceu o **Leitura Técnica**, um projeto educacional gratuito que une tecnologia, cognição e aprendizado autônomo.
-
-> _"O aprendizado mais profundo acontece quando você ensina."_
+O projeto que mais orgulho tenho é o **Leitura Técnica** — um projeto educacional independente que nasceu da minha experiência real na Oracle. Ele une **educação, tecnologia e ciência cognitiva**, produzindo artigos, resumos analíticos e conteúdos 100% gratuitos para promover aprendizado autônomo e metacognição. Meu lema: aprender, construir e compartilhar!
 
 ---
 
-## 🚀 Projeto em destaque
-
-### 📖 [Leitura Técnica](https://leituratecnica.com.br)
-
-Um projeto educacional independente focado na interseção entre **educação, tecnologia e ciência cognitiva**. Produzimos artigos, resumos analíticos e conteúdos gratuitos para quem acredita que aprender de forma autônoma é uma habilidade, não um talento.
-
-- 🧠 Aprendizado autônomo e metacognição  
-- 📚 Conteúdo acessível e embasado  
-- 🔓 100% gratuito  
-- 🌱 Nascido de uma experiência real na Oracle  
-
----
-
-## 🛠️ Tecnologias
+### 🛠️ Tecnologias que eu amo e uso
 
 <div align="center">
 
-| Tecnologia | Status |
-|---|---|
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Em uso diário |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Aprendendo |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | Em evolução |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Em evolução |
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arletedelira-TI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arletedelira-TI&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+Estou constantemente evoluindo com foco em análise de sistemas, automação, dados e interfaces intuitivas.
 
 ---
 
-## 📬 Contato
+### 🌟 Projeto em destaque
+
+**📖 Leitura Técnica**  
+Projeto educacional 100% gratuito focado em interseção entre educação, tecnologia e ciência cognitiva.  
+Nascido da experiência na Oracle • Artigos • Resumos analíticos • Conteúdos para metacognição  
+
+Confira aqui: [Repositório Leitura Técnica](https://github.com/arletedelira-TI) (ou busque “Leitura Técnica” nos meus repositórios)
+
+---
+
+### 📬 Vamos conectar?
+
+Quer trocar ideias, colaborar ou simplesmente bater um papo sobre tecnologia e análise de sistemas? Estou sempre aberta!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arletedelira/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arletedelira@gmail.com)
-[![Website](https://img.shields.io/badge/Leitura_Técnica-111827?style=for-the-badge&logo=bookstack&logoColor=white)](https://leituratecnica.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arletedelira/)
+[![Blog](https://img.shields.io/badge/Blog%20Pessoal-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://arletedelira-ti.blogspot.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arletedelira.ti@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════╗
-║   Objetivo: Analista de Sistemas                 ║
-║   Método: aprender, construir, compartilhar      ║
-║   Status: em constante evolução 🌱               ║
-╚══════════════════════════════════════════════════╝
-```
-
-_Obrigada por visitar!_
-
+  <p><em>“O conhecimento é mais poderoso quando compartilhado.”</em></p>
+  <p>🌱 Em constante evolução • 🇧🇷 Brasil (UTC-3)</p>
+  <img src="https://img.shields.io/badge/Feito%20com%20%E2%9D%A4%EF%B8%8F%20e%20café-000000?style=flat-square" alt="Feito com amor">
 </div>
