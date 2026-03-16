@@ -22,11 +22,13 @@
 
 ## 🧠 Sobre mim
 
-Olá! Sou **Arlete de Lira** — educadora, criadora de conteúdo técnico e fundadora do projeto [**Leitura Técnica**](https://leituratecnica.com.br), onde exploro a interseção entre **educação, tecnologia e ciências cognitivas**.
+Olá! Sou **Arlete de Lira** — estudante de tecnologia, criadora de conteúdo técnico e fundadora do projeto [**Leitura Técnica**](https://leituratecnica.com.br).
 
-Acredito que aprender a aprender é a habilidade mais poderosa do século XXI. Por isso, produzo conteúdo livre e acessível sobre **aprendizagem autônoma**, **metacognição** e **autodidatismo** — para quem quer entender não só *o quê*, mas *como* aprender melhor.
+Minha trajetória começou de forma marcante: meu **primeiro emprego foi na Oracle**, uma das maiores empresas de tecnologia do mundo — uma experiência que moldou minha visão sobre bancos de dados, sistemas corporativos e o rigor técnico que a área exige. Foi lá que entendi, na prática, o poder da tecnologia bem aplicada.
 
-Atualmente, estou no caminho da **análise de dados financeiros**, combinando minha base em tecnologia com o fascínio pelo mundo dos dados.
+Hoje curso **Desenvolvimento de Sistemas na ETEC**, aprofundando minha base técnica e construindo habilidades sólidas em programação, infraestrutura e desenvolvimento web. Paralelamente, sigo no caminho da **análise de dados financeiros**, conectando minha experiência com o mundo dos dados.
+
+Acredito que aprender a aprender é a habilidade mais poderosa do século XXI — por isso fundei o Leitura Técnica, onde produzo conteúdo livre sobre **aprendizagem autônoma**, **metacognição** e **ciências cognitivas**.
 
 ---
 
@@ -34,14 +36,39 @@ Atualmente, estou no caminho da **análise de dados financeiros**, combinando mi
 
 <div align="center">
 
-| Sistema | Linguagens | Front-end |
-|:---:|:---:|:---:|
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| Terminal, Shell, automação | Análise de dados, scripts, automação | Estrutura e semântica web |
-| | | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| | | Estilização e design responsivo |
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 </div>
+
+---
+
+## 💼 Experiência & Formação
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔴 Oracle
+**Primeiro emprego · Início de carreira**
+
+A Oracle foi onde tudo começou. Trabalhar em uma das maiores empresas de tecnologia do planeta logo de início foi uma imersão intensa no mundo corporativo de TI — com contato direto com **bancos de dados**, sistemas de grande escala e a cultura de excelência técnica que só uma empresa desse porte proporciona. Uma experiência que definiu meu padrão de rigor e me mostrou o que a tecnologia é capaz de fazer em escala real.
+
+</td>
+<td width="50%">
+
+### 🏫 ETEC
+**Desenvolvimento de Sistemas · Cursando**
+
+Atualmente no curso técnico de **Desenvolvimento de Sistemas na ETEC**, onde consolido minha base em lógica de programação, desenvolvimento web, banco de dados e infraestrutura. A formação técnica conecta teoria e prática — do código ao sistema completo.
+
+</td>
+</tr>
+</table>
 
 ---
 
