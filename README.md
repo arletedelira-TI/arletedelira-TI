@@ -1,131 +1,147 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d0d2b,60:1a0533,100:0a0a0f&height=280&section=header&text=ARLETE%20DE%20LIRA&fontSize=58&fontColor=00ffe5&fontAlignY=42&stroke=ff00cc&strokeWidth=2&desc=◈%20Solution%20Engineer%20·%20Dev%20Systems%20·%20Learning%20Science%20◈&descSize=14&descAlignY=62&descColor=cc66ff&animation=twinkling&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:030014,40:0a0628,70:130d3b,100:030014&height=260&section=header&text=Arlete%20de%20Lira&fontSize=62&fontColor=e8e0ff&fontAlignY=45&desc=Solution%20Engineer%20%E2%80%A2%20Dev%20Systems%20%E2%80%A2%20Learning%20Science&descSize=15&descAlignY=65&descColor=9d8fe8&animation=fadeIn" width="100%" />
 
 </div>
 
 <div align="center">
 
-![](https://img.shields.io/badge/-%3E%3E_%20SISTEMA_INICIALIZADO_%3C%3C-00ffe5?style=flat-square&labelColor=0a0a0f)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=9d8fe8&center=true&vCenter=true&width=600&lines=Transformando+tecnologia+em+aprendizado+real.;Oracle+%E2%86%92+ETEC+%E2%86%92+Leitura+T%C3%A9cnica.;Aprender+%C3%A9+o+ato+mais+radical+que+existe.)](https://git.io/typing-svg)
+
+<br>
 
 </div>
 
 ---
 
-<div align="center">
+<br>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  root@leituratecnica:~$ ./iniciar_missao.sh                  ║
-║                                                              ║
-║  > "A tecnologia sem aprendizado é apenas ferramenta.        ║
-║     Com aprendizado, torna-se transformação."                ║
-║                                                              ║
-║  [STATUS]: ██████████ 100% — SISTEMA ONLINE                  ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=arletedelira-TI&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=030014&title_color=e8e0ff&icon_color=9d8fe8&text_color=c4baf5&ring_color=6c63ff"/>
 
-</div>
+### ✦ &nbsp;Sobre mim
 
----
+Sou **Arlete de Lira** — estudante de Desenvolvimento de Sistemas, criadora do projeto **[Leitura Técnica](https://leituratecnica.com.br)** e ex-**Solution Engineer na Oracle**.
 
-## 🧠 Sobre mim
+Minha trajetória une o rigor técnico do mundo corporativo com a curiosidade de quem acredita que a aprendizagem é, em si, uma tecnologia.
 
-Olá! Sou **Arlete de Lira** — estudante de tecnologia, criadora de conteúdo técnico e fundadora do projeto [**Leitura Técnica**](https://leituratecnica.com.br).
+Atualmente curso **Desenvolvimento de Sistemas na ETEC** e exploro a fronteira entre **cognição, dados e educação**.
 
-Minha trajetória começou de forma marcante: meu **primeiro emprego foi na Oracle como Solution Engineer**, atuando no time de pré-vendas técnica. Foram 3 anos construindo soluções em cloud e on-premises, participando de PoCs e demos técnicas — uma experiência que moldou meu pensamento analítico, minha visão estratégica e meu rigor técnico.
-
-Hoje curso **Desenvolvimento de Sistemas na ETEC**, aprofundando minha base técnica e construindo habilidades sólidas em programação, infraestrutura e desenvolvimento web. Paralelamente, sigo no caminho da **análise de dados financeiros**, conectando minha experiência com o mundo dos dados.
-
-Acredito que aprender a aprender é a habilidade mais poderosa do século XXI — por isso fundei o Leitura Técnica, onde produzo conteúdo livre sobre **aprendizagem autônoma**, **metacognição** e **ciências cognitivas**.
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+<br>
 
-<div align="center">
+## ◆ &nbsp;Experiência & Formação
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-
-</div>
-
----
-
-## 💼 Experiência & Formação
-
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%">
+<td width="52%" valign="top">
 
-### 🔴 Oracle — Solution Engineer
-**Pré-vendas técnica · 3 anos**
+**`[01]` &nbsp;Oracle Corporation**
+&nbsp;*Solution Engineer · Pré-vendas Técnica · 3 anos*
 
-Primeira experiência profissional em tecnologia, no time de **pré-vendas técnica** da Oracle. Atuei em soluções **on-premises e cloud híbrida**, participando de PoCs, demos técnicas e elaboração de propostas. Em 3 anos, desenvolvi habilidades em **OCI**, bancos de dados Oracle e integração de sistemas — e aprendi a traduzir desafios complexos em soluções que geram valor real.
+Primeira experiência profissional em TI, no time de pré-vendas técnica da Oracle. Atuei em soluções **on-premises e cloud híbrida** (OCI), participando de PoCs, demos técnicas e elaboração de propostas. Aprendi a traduzir desafios complexos em soluções que geram valor real — combinando visão de negócio com profundidade técnica.
 
 </td>
-<td width="50%">
+<td width="4%"></td>
+<td width="44%" valign="top">
 
-### 🏫 ETEC
-**Desenvolvimento de Sistemas · Cursando**
+**`[02]` &nbsp;ETEC**
+&nbsp;*Desenvolvimento de Sistemas · Cursando*
 
-Atualmente no curso técnico de **Desenvolvimento de Sistemas na ETEC**, onde consolido minha base em lógica de programação, desenvolvimento web, banco de dados e infraestrutura. A formação técnica conecta teoria e prática — do código ao sistema completo.
+Formação técnica em Desenvolvimento de Sistemas, consolidando base em lógica de programação, desenvolvimento web, banco de dados e infraestrutura. Do código ao sistema completo.
 
 </td>
 </tr>
 </table>
 
+<br>
+
 ---
 
-## 📚 Projeto em destaque
+<br>
+
+## ◆ &nbsp;Stack
 
 <div align="center">
 
-### 🔬 [Leitura Técnica](https://leituratecnica.com.br)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)&nbsp;
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle%20DB-%23F80000.svg?style=flat-square&logo=oracle&logoColor=white)&nbsp;
+![VirtualBox](https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=flat-square&logo=virtualbox&logoColor=white)
 
 </div>
 
-> Um projeto educacional independente que produz **conteúdo gratuito** sobre ciência da aprendizagem, tecnologia e cognição — para quem quer aprender com profundidade e autonomia.
-
-- 📝 **Artigos** sobre metacognição, autodidatismo e ciências cognitivas
-- 🎥 **Vídeos** com roteiros documentais sobre aprender a aprender  
-- 🧩 **Modelos autorais** como o **Modelo SAR** (Sistema de Aprendizagem Reflexiva)
-- 🌍 Conteúdo 100% gratuito, em português
+<br>
 
 ---
 
-## 📊 GitHub Stats
+<br>
+
+## ◆ &nbsp;Projeto em destaque
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=arletedelira-TI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=c9d1ff&icon_color=7c85d4&text_color=a0a8e0"/>
+### ✦ &nbsp;[Leitura Técnica](https://leituratecnica.com.br)
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arletedelira-TI&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c9d1ff&text_color=a0a8e0"/>
+*Educação livre na interseção entre tecnologia, cognição e aprendizagem autônoma*
 
 </div>
 
+<br>
+
+<table border="0">
+<tr>
+<td width="25%" align="center">📝<br><b>Artigos</b><br><sub>Metacognição · Autodidatismo · Ciências cognitivas</sub></td>
+<td width="25%" align="center">🎥<br><b>Vídeos</b><br><sub>Roteiros documentais sobre aprender a aprender</sub></td>
+<td width="25%" align="center">🧩<br><b>Modelos autorais</b><br><sub>Modelo SAR — Sistema de Aprendizagem Reflexiva</sub></td>
+<td width="25%" align="center">🌍<br><b>100% gratuito</b><br><sub>Conteúdo livre, em português</sub></td>
+</tr>
+</table>
+
+<br>
+
 ---
 
-## 🌐 Onde me encontrar
+<br>
+
+## ◆ &nbsp;Linguagens
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arletedelira/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arletedelira@gmail.com)
-[![Site](https://img.shields.io/badge/Leitura%20Técnica-0f0f23?style=for-the-badge&logo=bookstack&logoColor=c9d1ff)](https://leituratecnica.com.br)
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arletedelira-TI&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=030014&title_color=e8e0ff&text_color=c4baf5"/>
 
 </div>
 
+<br>
+
+---
+
+<br>
+
+## ◆ &nbsp;Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arletedelira-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arletedelira/)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-arletedelira%40gmail.com-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arletedelira@gmail.com)&nbsp;&nbsp;
+[![Site](https://img.shields.io/badge/Site-leituratecnica.com.br-%236c63ff?style=flat-square&logo=bookstack&logoColor=white)](https://leituratecnica.com.br)
+
+</div>
+
+<br>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:0d0d2b,100:0a0a0f&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:030014,50:130d3b,100:030014&height=100&section=footer" width="100%" />
 
-`◈ — root@leituratecnica:~$ shutdown --message="até o próximo commit" — ◈`
+<sub><sup>✦ &nbsp; construído com curiosidade e intenção &nbsp; ✦</sup></sub>
 
 </div>
