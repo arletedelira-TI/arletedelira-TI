@@ -8,7 +8,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=9d8fe8&center=true&vCenter=true&width=600&lines=Transformando+tecnologia+em+aprendizado+real.;Oracle+%E2%86%92+ETEC+%E2%86%92+Leitura+T%C3%A9cnica.;Aprender+%C3%A9+o+ato+mais+radical+que+existe.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=9d8fe8&center=true&vCenter=true&width=600&lines=Transformando+tecnologia+em+aprendizado+real.;Aprender+%C3%A9+o+ato+mais+radical+que+existe.)](https://git.io/typing-svg)
 
 <br>
 
