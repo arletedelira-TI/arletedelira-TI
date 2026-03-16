@@ -12,27 +12,13 @@
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  root@leituratecnica:~$ cat sobre_mim.txt                   ║
-║                                                              ║
-║  > Comecei na Oracle como Solution Engineer.                 ║
-║  > Hoje construo, estudo e ensino tecnologia.                ║
-║  > Acredito que saber aprender é o maior superpoder.         ║
-║                                                              ║
-║  [STATUS]: ██████████ 100% — SISTEMA ONLINE ✦               ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
 ## 🧠 Sobre mim
 
 Olá! Sou **Arlete de Lira** — profissional de tecnologia, criadora de conteúdo técnico e fundadora do **[Leitura Técnica](https://leituratecnica.com.br)**.
 
 Minha jornada começou de forma marcante: meu **primeiro emprego foi na Oracle como Solution Engineer**, onde atuei por 3 anos em pré-vendas técnica — traduzindo desafios complexos em soluções reais com cloud e sistemas on-premises.
 
-Hoje curso **Desenvolvimento de Sistemas na ETEC**, aprofundando minha base técnica e construindo novas habilidades em programação, web e dados. Meu próximo destino: **análise de dados financeiros**.
+Hoje curso **Desenvolvimento de Sistemas na ETEC**, aprofundando minha base técnica e construindo novas habilidades em programação, web e dados. 
 
 Fundei o **Leitura Técnica** porque acredito que o maior investimento é aprender a aprender — um projeto educacional gratuito sobre ciências cognitivas, metacognição e aprendizagem autônoma.
 
@@ -40,41 +26,8 @@ Fundei o **Leitura Técnica** porque acredito que o maior investimento é aprend
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-## 📚 Projeto em destaque
-
-<div align="center">
-
-### 🔬 [Leitura Técnica](https://leituratecnica.com.br)
-
-*Um projeto educacional independente — gratuito e em português — sobre como a mente aprende.*
-
-</div>
-
-- 📝 **Artigos** aprofundados sobre metacognição, autodidatismo e ciências cognitivas
-- 🎥 **Vídeos** com roteiros documentais sobre aprender a aprender
-- 🧩 **Modelos autorais** como o **Modelo SAR** (Sistema de Aprendizagem Reflexiva)
-- 🌍 Conteúdo 100% gratuito — feito para quem quer aprender com profundidade
-
-<br/>
-
----
 
 ## 📊 GitHub Stats
 
@@ -100,15 +53,3 @@ Fundei o **Leitura Técnica** porque acredito que o maior investimento é aprend
 </div>
 
 <br/>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0628,50:130d3b,100:0a0628&height=100&section=footer" />
-
-`◈ — root@leituratecnica:~$ shutdown --message="até o próximo commit" — ◈`
-
-*construído com curiosidade e intenção ✦*
-
-</div>
