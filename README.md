@@ -1,55 +1,88 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,40:0a0628,70:130d3b,100:030014&height=200&section=header&text=Arlete%20de%20Lira&fontSize=54&fontColor=c9d1ff&fontAlignY=42&desc=Tecnologia%20%E2%80%A2%20Aprendizagem%20%E2%80%A2%20Dados&descSize=16&descAlignY=65&descColor=7c6fe0&animation=fadeIn" />
-
-<br/>
-
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=7C6FE0&center=true&vCenter=true&width=580&lines=Solution+Engineer+%E2%86%92+Dev+em+formação+%E2%86%92+Analista+de+Dados;Fundadora+do+Leitura+Técnica+%F0%9F%94%AC;Aprender+a+aprender+é+a+habilidade+do+século+XXI.)](https://git.io/typing-svg)
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   $ whoami                                                   ║
+║   > Arlete de Lira — estudante · criadora · analista em     ║
+║     formação                                                 ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🧠 Sobre mim
+## 👩‍💻 Sobre mim
 
-Olá! Sou **Arlete de Lira** — profissional de tecnologia, criadora de conteúdo técnico e fundadora do **[Leitura Técnica](https://leituratecnica.com.br)**.
+Sou estudante de **Desenvolvimento de Sistemas** com o olhar voltado para me tornar **Analista de Sistemas**. Acredito que tecnologia e conhecimento são mais poderosos quando compartilhados, e é essa convicção que guia tudo o que faço.
 
-Minha jornada começou de forma marcante: meu **primeiro emprego foi na Oracle como Solution Engineer**, onde atuei por 3 anos em pré-vendas técnica — traduzindo desafios complexos em soluções reais com cloud e sistemas on-premises.
+Antes de entrar de vez no mundo tech, passei pela **Oracle** — uma experiência que me mostrou como sistemas bem construídos transformam realidades. Dali nasceu o **Leitura Técnica**, um projeto educacional gratuito que une tecnologia, cognição e aprendizado autônomo.
 
-Hoje curso **Desenvolvimento de Sistemas na ETEC**, aprofundando minha base técnica e construindo novas habilidades em programação, web e dados. 
-
-Fundei o **Leitura Técnica** porque acredito que o maior investimento é aprender a aprender — um projeto educacional gratuito sobre ciências cognitivas, metacognição e aprendizagem autônoma.
-
-<br/>
+> _"O aprendizado mais profundo acontece quando você ensina."_
 
 ---
 
+## 🚀 Projeto em destaque
 
+### 📖 [Leitura Técnica](https://leituratecnica.com.br)
 
+Um projeto educacional independente focado na interseção entre **educação, tecnologia e ciência cognitiva**. Produzimos artigos, resumos analíticos e conteúdos gratuitos para quem acredita que aprender de forma autônoma é uma habilidade, não um talento.
+
+- 🧠 Aprendizado autônomo e metacognição  
+- 📚 Conteúdo acessível e embasado  
+- 🔓 100% gratuito  
+- 🌱 Nascido de uma experiência real na Oracle  
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+| Tecnologia | Status |
+|---|---|
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Em uso diário |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Aprendendo |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | Em evolução |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Em evolução |
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=arletedelira-TI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=c9d1ff&icon_color=7c85d4&text_color=a0a8e0"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arletedelira-TI&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c9d1ff&text_color=a0a8e0"/>
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arletedelira-TI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arletedelira-TI&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
-
-<br/>
 
 ---
 
-## 🌐 Onde me encontrar
+## 📬 Contato
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arletedelira/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arletedelira@gmail.com)
-[![Leitura Técnica](https://img.shields.io/badge/Leitura%20Técnica-130d3b?style=for-the-badge&logo=bookstack&logoColor=c9d1ff)](https://leituratecnica.com.br)
+[![Website](https://img.shields.io/badge/Leitura_Técnica-111827?style=for-the-badge&logo=bookstack&logoColor=white)](https://leituratecnica.com.br)
 
 </div>
 
-<br/>
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════╗
+║   Objetivo: Analista de Sistemas                 ║
+║   Método: aprender, construir, compartilhar      ║
+║   Status: em constante evolução 🌱               ║
+╚══════════════════════════════════════════════════╝
+```
+
+_Obrigada por visitar!_
+
+</div>
