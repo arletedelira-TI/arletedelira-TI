@@ -1,108 +1,131 @@
+<!-- HEADER -->
 <div align="center">
-  
-  <!-- Hero -->
-  <img src="https://img.shields.io/badge/Estudante%20de%20Desenvolvimento%20de%20Sistemas-7C3AED?style=for-the-badge&logo=book&logoColor=white" alt="Estudante">
-  <img src="https://img.shields.io/badge/Aspirante%20a%20Analista%20de%20Sistemas-10B981?style=for-the-badge&logo=chart-bar&logoColor=white" alt="Aspiração">
-  
-  <h1 style="font-size: 3.2rem; margin: 1.2rem 0 0.6rem; font-family: 'Segoe UI', system-ui; letter-spacing: -0.03em;">
-    👋 Olá, eu sou <span style="background: linear-gradient(90deg, #7C3AED, #EC4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Arlete De Lira</span>
-  </h1>
-  
-  <p style="font-size: 1.35rem; font-weight: 600; color: #64748b; margin-bottom: 1rem;">
-    Estudante criadora • Analista em formação
-  </p>
-  
-  <p style="max-width: 720px; font-size: 1.15rem; line-height: 1.65; color: #475569;">
-    Com <strong>3 anos de experiência prática na Oracle</strong> em consultoria e engenharia de soluções, e cursando Desenvolvimento de Sistemas, estou construindo minha trajetória como <strong>Analista de Sistemas</strong>. Acredito que a verdadeira transformação vem de unir tecnologia com a capacidade de <strong>aprender com autonomia</strong> — por isso criei o Leitura Técnica, para democratizar essa habilidade essencial.
-  </p>
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=arletedelira-TI&show_icons=true&theme=radical&hide_border=true&hide_title=true&include_all_commits=true" alt="GitHub Stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arletedelira-TI&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="160">
+```
+╔══════════════════════════════════════════════════════════════╗
+║              // MISSION COMMANDER IDENTIFIED                 ║
+║                                                              ║
+║   ▓▓▓▓▓▓▓▓    ARLETE DE LIRA    ▓▓▓▓▓▓▓▓                  ║
+║    Full Stack Developer · Cloud OCI · São Paulo, BR          ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1000&color=5A9FD4&center=true&vCenter=true&width=700&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas...;Solution+Engineering+%7C+Cloud+OCI+%7C+Banco+de+Dados;Conectando+tecnologia+e+neg%C3%B3cio+desde+o+primeiro+commit.;Cada+solu%C3%A7%C3%A3o+%C3%A9+um+passo+al%C3%A9m+da+%C3%B3rbita+atual.)](https://git.io/typing-svg)
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-0a1e4a?style=flat-square&logo=python&logoColor=5a9fd4)
+![Cloud OCI](https://img.shields.io/badge/Oracle_Cloud-0a1e4a?style=flat-square&logo=oracle&logoColor=e74c3c)
+![SQL](https://img.shields.io/badge/SQL-0a1e4a?style=flat-square&logo=postgresql&logoColor=5a9fd4)
+![Solution Engineering](https://img.shields.io/badge/Solution_Engineering-0a1e4a?style=flat-square&logo=about.me&logoColor=9b59b6)
+![Open to Work](https://img.shields.io/badge/%23OPENTOWORK-0d2a1a?style=flat-square&color=0d2a1a&labelColor=0d2a1a&label=●&message=OPEN+TO+WORK)
 
 </div>
 
 ---
 
-### 🚀 Sobre mim
+## ▸ LOG DE MISSÃO
 
-Estou cursando **Desenvolvimento de Sistemas** e meu objetivo profissional é me tornar **Analista de Sistemas**.  
+```
+[TX-01 // QUEM SOU]
+Estudante de Análise e Desenvolvimento de Sistemas pela ETEC, com experiência
+em pré-vendas técnica e atuação na área de engenharia de soluções. Visão que
+conecta tecnologia e negócio — levantamento de requisitos até o deploy.
 
-Com base na experiência real adquirida na Oracle em consultoria e engenharia de soluções, combino prática técnica, visão estratégica e pensamento analítico para transformar problemas complexos em soluções elegantes e centradas no usuário.
+[TX-02 // ESPECIALIDADE]
+Vivência com Cloud OCI, banco de dados, arquitetura de soluções, análise de
+segurança e modernização de ambientes. Traduzindo o complexo para qualquer
+público — técnico ou executivo.
 
-O projeto que mais me orgulho é o **Leitura Técnica** — uma iniciativa educacional independente que nasceu diretamente da minha vivência profissional na Oracle. Ele atua na interseção entre **educação, tecnologia e cognição**, com o propósito de desenvolver a habilidade mais poderosa para qualquer carreira técnica: **aprender com autonomia**.  
-
-Ensino a ler textos técnicos com profundidade, interpretar documentações complexas, organizar conhecimento de forma estruturada e construir entendimento duradouro — tudo para que profissionais possam inovar e tomar decisões conscientes no mundo digital.  
-
-**Meu lema:** aprender a aprender é o verdadeiro diferencial.
+[TX-03 // OBJETIVO]
+Consolidar como Analista de Sistemas e evoluir na engenharia de soluções,
+contribuindo na construção de sistemas que gerem impacto real.
+```
 
 ---
 
-### 🛠️ Tecnologias que eu amo e uso todos os dias
+## ▸ ARSENAL TECNOLÓGICO
+
+**Propulsão principal**
+
+![Python](https://img.shields.io/badge/Python-0a1e4a?style=for-the-badge&logo=python&logoColor=5a9fd4)
+![Django](https://img.shields.io/badge/Django-0a1e4a?style=for-the-badge&logo=django&logoColor=5a9fd4)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a1e4a?style=for-the-badge&logo=fastapi&logoColor=5a9fd4)
+
+**Módulo orbital (Cloud & Infra)**
+
+![Oracle OCI](https://img.shields.io/badge/Oracle_OCI-0a1e4a?style=for-the-badge&logo=oracle&logoColor=e74c3c)
+![Docker](https://img.shields.io/badge/Docker-0a1e4a?style=for-the-badge&logo=docker&logoColor=5a9fd4)
+![Linux](https://img.shields.io/badge/Linux-0a1e4a?style=for-the-badge&logo=linux&logoColor=5a9fd4)
+
+**Núcleo de dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1e4a?style=for-the-badge&logo=postgresql&logoColor=5a9fd4)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a1e4a?style=for-the-badge&logo=mongodb&logoColor=2ecc71)
+![Redis](https://img.shields.io/badge/Redis-0a1e4a?style=for-the-badge&logo=redis&logoColor=e74c3c)
+
+**Sistema visual (Frontend)**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0a1e4a?style=for-the-badge&logo=javascript&logoColor=f39c12)
+![React](https://img.shields.io/badge/React-0a1e4a?style=for-the-badge&logo=react&logoColor=5a9fd4)
+![HTML5](https://img.shields.io/badge/HTML5-0a1e4a?style=for-the-badge&logo=html5&logoColor=e74c3c)
+
+---
+
+## ▸ HISTÓRICO DE VOO
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🔴  ORACLE — Solution Engineer                             │
+│      ago 2021 → set 2024  ·  3 anos 2 meses                │
+│      Pré-vendas técnica, arquitetura cloud & on-premises,   │
+│      apresentações executivas e suporte a migrações.        │
+├─────────────────────────────────────────────────────────────┤
+│  🔵  ETEC GETÚLIO VARGAS — Técnico em Análise de Sistemas   │
+│      jan 2026 → dez 2027  ·  em curso                      │
+│      Desenvolvimento, análise e evolução de sistemas.       │
+├─────────────────────────────────────────────────────────────┤
+│  🟣  UNIV. SÃO JUDAS TADEU — Computer Engineering          │
+│      jan 2022 → jan 2024                                    │
+│      STEM: Ciência, Matemática, Engenharia e Tecnologia.    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## ▸ DADOS DE TELEMETRIA
 
 <div align="center">
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  </a>
-</div>
 
-<p align="center" style="margin-top: 1rem; color: #64748b; font-style: italic;">
-  Em constante evolução, com foco crescente em análise de sistemas, automação inteligente, modelagem de dados e interfaces intuitivas.
-</p>
+| ⬡ GitHub Stats | ⬡ Most Used Languages |
+|:---:|:---:|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=transparent&title_color=5a9fd4&text_color=7eb8ff&icon_color=3a7bd5&border_color=1a3a6e&bg_color=030814) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=transparent&title_color=5a9fd4&text_color=7eb8ff&border_color=1a3a6e&bg_color=030814) |
 
----
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=030814&color=5a9fd4&line=3a7bd5&point=7eb8ff&area=true&hide_border=true)
 
-### 🌟 Projeto em destaque
-
-<div style="background: #0f172a; border-left: 6px solid #7C3AED; padding: 28px 32px; border-radius: 12px; margin: 24px 0;">
-  <h3 style="margin: 0 0 12px; font-size: 1.65rem; color: #c084fc;">📖 Leitura Técnica</h3>
-  <p style="margin: 0; color: #94a3b8; line-height: 1.7;">
-    Projeto educacional independente que desenvolve a habilidade de <strong>aprender com autonomia</strong>.<br>
-    Na interseção entre educação, tecnologia e cognição, ensino a ler textos técnicos com profundidade, interpretar documentações complexas, organizar conhecimento e construir entendimento duradouro.<br>
-    <strong>Nascido da experiência na Oracle • Artigos profundos • Técnicas de metacognição • Fundamentos de computação, dados e IA</strong>
-  </p>
-  <p style="margin: 20px 0 0;">
-    <a href="https://www.leituratecnica.com.br" style="color: #c084fc; text-decoration: none; font-weight: 600;">→ Acessar o site oficial</a>
-  </p>
 </div>
 
 ---
 
-### 📬 Vamos conectar?
-
-Estou sempre aberta a conversas sobre análise de sistemas, projetos educacionais, carreira em tecnologia e troca de ideias.
+## ▸ ESTABELECER CONTATO
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/arletedelira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://arletedelira-ti.blogspot.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Arlete%20De%20lira%20TI-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Leitura Técnica">
-  </a>
-  <a href="mailto:deliraarlete@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1e4a?style=for-the-badge&logo=linkedin&logoColor=5aafff)](https://linkedin.com/in/SEU_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d1e?style=for-the-badge&logo=github&logoColor=9ab0ff)](https://github.com/SEU_USERNAME)
+[![E-mail](https://img.shields.io/badge/E--mail-1a0800?style=for-the-badge&logo=gmail&logoColor=ff8060)](mailto:SEU_EMAIL)
+
 </div>
 
 ---
 
 <div align="center">
-  <p style="font-style: italic; color: #64748b; max-width: 520px; margin: 2.5rem auto 1rem;">
-    “A verdadeira transformação profissional acontece quando a pessoa aprende a aprender.”
-  </p>
-  
-  <p style="color: #475569; font-size: 1rem;">
-    🌱 Em constante evolução • 🇧🇷 Brasil (UTC-3)
-  </p>
-  
-  <img src="https://img.shields.io/badge/Feito%20com%20%E2%9D%A4%EF%B8%8F%20e%20café%20de%20verdade-1E2937?style=flat-square" alt="Feito com amor">
+
+```
+● SISTEMA ATIVO · PRONTA PARA DECOLAR
+      FULL STACK DEVELOPER // 2025
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=3a7bd5&style=flat-square&label=ACESSOS+À+BASE)
+
 </div>
