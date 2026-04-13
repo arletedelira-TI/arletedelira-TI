@@ -1,17 +1,5 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                  // MISSION COMMANDER IDENTIFIED                 ║
-║                                                                  ║
-║              ▓▓▓▓    ARLETE DE LIRA    ▓▓▓▓                    ║
-║        Full Stack Developer · Solution Engineer · SP, BR         ║
-║                                                                  ║
-║       "Conecto tecnologia e pessoas — do código                  ║
-║                 à apresentação executiva."                       ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1200&color=5A9FD4&center=true&vCenter=true&width=500&lines=Full+Stack+Dev+%7C+Solution+Engineering;Cloud+OCI+%7C+Automacao+%7C+Python;Determinada+a+consolidar+na+area+tech;Fundadora+da+Leitura+Tecnica)](https://git.io/typing-svg)
 
 <br>
