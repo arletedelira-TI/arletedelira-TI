@@ -23,7 +23,7 @@ Meu superpoder é a visão de negócio.
 
 [TX-03 · OBJETIVO]
 Em 2 anos quero ser Arquiteta de Software numa corporação de impacto.
-de 2026 a 2028 estou determinada a consolidar minha base técnica enquanto construo sistemas que
+Estou determinada a consolidar minha base técnica enquanto construo sistemas que
 fazem sentido para o negócio — não só para o compilador.
 ```
 
