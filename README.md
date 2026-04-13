@@ -105,9 +105,7 @@ Fundadora da **Leitura Técnica** — uma marca de incentivo à leitura que cone
 
 ```
 ● SISTEMA ATIVO
-DETERMINADA A CONSOLIDAR · ARQUITETA EM FORMAÇÃO · FULL STACK · 2025
+DETERMINADA A CONSOLIDAR · ARQUITETA EM FORMAÇÃO · FULL STACK · 2026
 ```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=3a7bd5&style=flat-square&label=ACESSOS+A+BASE)
 
 </div>
