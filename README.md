@@ -128,9 +128,9 @@ Fundadora da **Leitura Técnica** — uma marca de incentivo à leitura que cone
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-030a18?style=for-the-badge&logo=linkedin&logoColor=5aafff)](https://linkedin.com/in/SEU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d20?style=for-the-badge&logo=github&logoColor=9ab0ff)](https://github.com/SEU_USERNAME)
-[![E-mail](https://img.shields.io/badge/E--mail-1a0800?style=for-the-badge&logo=gmail&logoColor=ff8060)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-030a18?style=for-the-badge&logo=linkedin&logoColor=5aafff)](https://linkedin.com/in/arletedelira/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d20?style=for-the-badge&logo=github&logoColor=9ab0ff)](https://github.com/arletedelira-TI)
+[![E-mail](https://img.shields.io/badge/E--mail-1a0800?style=for-the-badge&logo=gmail&logoColor=ff8060)](mailto:deliraarlete@gmailcom)
 
 </div>
 
