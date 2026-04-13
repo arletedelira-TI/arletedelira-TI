@@ -4,14 +4,15 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║                  // MISSION COMMANDER IDENTIFIED                 ║
 ║                                                                  ║
-║   ▓▓▓▓▓▓▓▓▓    ARLETE DE LIRA    ▓▓▓▓▓▓▓▓▓                    ║
+║              ▓▓▓▓    ARLETE DE LIRA    ▓▓▓▓                    ║
 ║        Full Stack Developer · Solution Engineer · SP, BR         ║
-║          "Conecto tecnologia e pessoas — do código               ║
-║                    à apresentação executiva."                     ║
+║                                                                  ║
+║       "Conecto tecnologia e pessoas — do código                  ║
+║                 à apresentação executiva."                       ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1000&color=5A9FD4&center=true&vCenter=true&width=720&lines=Full+Stack+Dev+%7C+Solution+Engineering+%7C+Cloud+OCI;Determinada+a+consolidar+meus+conhecimentos+técnicos.;Tecnologia+sem+propósito+não+me+interessa.;Fundadora+da+Leitura+Técnica+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1200&color=5A9FD4&center=true&vCenter=true&width=500&lines=Full+Stack+Dev+%7C+Solution+Engineering;Cloud+OCI+%7C+Automacao+%7C+Python;Determinada+a+consolidar+na+area+tech;Fundadora+da+Leitura+Tecnica)](https://git.io/typing-svg)
 
 <br>
 
@@ -20,7 +21,7 @@
 ![Linux](https://img.shields.io/badge/Linux-030a18?style=flat-square&logo=linux&logoColor=f0c040)
 ![Docker](https://img.shields.io/badge/Docker-030a18?style=flat-square&logo=docker&logoColor=5a9fd4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-030a18?style=flat-square&logo=javascript&logoColor=f39c12)
-![Open to Work](https://img.shields.io/badge/●_OPEN_TO_WORK-0a1f0f?style=flat-square&logoColor=2ecc71&color=0a1f0f&labelColor=0a1f0f)
+![Open to Work](https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20WORK-0a1f0f?style=flat-square&color=0a1f0f&logoColor=2ecc71)
 
 </div>
 
@@ -53,7 +54,7 @@ fazem sentido para o negócio — não só para o compilador.
 **Propulsão principal**
 
 ![Python](https://img.shields.io/badge/Python-030a18?style=for-the-badge&logo=python&logoColor=5a9fd4)
-![Automação](https://img.shields.io/badge/Automação-030a18?style=for-the-badge&logo=githubactions&logoColor=2ecc71)
+![Automação](https://img.shields.io/badge/Automacao-030a18?style=for-the-badge&logo=githubactions&logoColor=2ecc71)
 
 **Módulo orbital — Cloud & Infra**
 
@@ -104,7 +105,6 @@ fazem sentido para o negócio — não só para o compilador.
 │  🔵  ETEC GETÚLIO VARGAS — Técnico em Análise de Sistemas        │
 │      jan 2026 → dez 2027  ·  em curso                           │
 │      Desenvolvimento e evolução de sistemas computacionais.      │
-│      Base técnica sólida em software e análise de dados.         │
 ├──────────────────────────────────────────────────────────────────┤
 │  🟣  UNIV. SÃO JUDAS TADEU — Computer Engineering               │
 │      jan 2022 → jan 2024                                         │
@@ -118,7 +118,7 @@ fazem sentido para o negócio — não só para o compilador.
 
 > _"As melhores arquiteturas começam em livros, não em telas."_
 
-Fundadora da **[Leitura Técnica](https://SEU_LINK_AQUI)** — uma marca de incentivo à leitura que conecta o mundo da tecnologia com o hábito de ler. Porque ler bem é uma vantagem competitiva que poucos desenvolvedores cultivam.
+Fundadora da **Leitura Técnica** — uma marca de incentivo à leitura que conecta o mundo da tecnologia com o hábito de ler. Porque ler bem é uma vantagem competitiva que poucos desenvolvedores cultivam.
 
 ---
 
@@ -128,9 +128,9 @@ Fundadora da **[Leitura Técnica](https://SEU_LINK_AQUI)** — uma marca de ince
 
 | ⬡ GitHub Stats | ⬡ Most Used Languages |
 |:---:|:---:|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=arletedelira-TI&show_icons=true&theme=transparent&title_color=5a9fd4&text_color=7eb8ff&icon_color=3a7bd5&border_color=1a3a6e&bg_color=030a18) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arletedelira-TI&layout=compact&theme=transparent&title_color=5a9fd4&text_color=7eb8ff&border_color=1a3a6e&bg_color=030a18) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=transparent&title_color=5a9fd4&text_color=7eb8ff&icon_color=3a7bd5&border_color=1a3a6e&bg_color=030a18) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=transparent&title_color=5a9fd4&text_color=7eb8ff&border_color=1a3a6e&bg_color=030a18) |
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arletedelira-TI&bg_color=030a18&color=5a9fd4&line=3a7bd5&point=7eb8ff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=030a18&color=5a9fd4&line=3a7bd5&point=7eb8ff&area=true&hide_border=true)
 
 </div>
 
@@ -155,6 +155,6 @@ Fundadora da **[Leitura Técnica](https://SEU_LINK_AQUI)** — uma marca de ince
 DETERMINADA A CONSOLIDAR · ARQUITETA EM FORMAÇÃO · FULL STACK · 2025
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=3a7bd5&style=flat-square&label=ACESSOS+À+BASE)
+![Visitor Count](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=3a7bd5&style=flat-square&label=ACESSOS+A+BASE)
 
 </div>
