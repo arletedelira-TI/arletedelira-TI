@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1200&color=5A9FD4&center=true&vCenter=true&width=500&lines=Full+Stack+Dev+%7C+Solution+Engineering;Cloud+OCI+%7C+Automacao+%7C+Python;Determinada+a+consolidar+na+area+tech;Fundadora+da+Leitura+Tecnica)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1200&color=5A9FD4&center=true&vCenter=true&width=500&lines=Full+Stack+Dev+%7C+Solution+Engineering;Cloud+OCI+%7C+Automacao+%7C+Python;Determinada+a+consolidar+meus+conhecimentos+na+area+tech;Fundadora+da+Leitura+Tecnica)](https://git.io/typing-svg)
 
 <br>
 
