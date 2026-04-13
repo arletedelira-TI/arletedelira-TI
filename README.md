@@ -5,11 +5,8 @@
 <br>
 
 ![Python](https://img.shields.io/badge/Python-030a18?style=flat-square&logo=python&logoColor=5a9fd4)
-![Oracle OCI](https://img.shields.io/badge/Oracle_OCI-030a18?style=flat-square&logo=oracle&logoColor=e74c3c)
 ![Linux](https://img.shields.io/badge/Linux-030a18?style=flat-square&logo=linux&logoColor=f0c040)
-![Docker](https://img.shields.io/badge/Docker-030a18?style=flat-square&logo=docker&logoColor=5a9fd4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-030a18?style=flat-square&logo=javascript&logoColor=f39c12)
-![Open to Work](https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20WORK-0a1f0f?style=flat-square&color=0a1f0f&logoColor=2ecc71)
 
 </div>
 
@@ -19,51 +16,19 @@
 
 ```
 [TX-01 · QUEM SOU]
-Dev Full Stack júnior com alma de Solution Engineer. Passei anos na Oracle
-traduzindo tecnologia complexa para executivos — agora levo essa visão para
-o código. Me sinto em casa tanto numa demo técnica quanto numa análise de
-arquitetura.
+Dev Full Stack júnior com alma de Solution Engineer. 
 
 [TX-02 · MINHA DIFERENÇA]
-Meu superpoder é a visão de negócio: entendo o problema antes de abrir o
-editor. Na Oracle fiz análises de ambiente técnico, performance, licenças
-e simulações de disaster recovery. Tecnologia sem propósito não me interessa.
+Meu superpoder é a visão de negócio.
 
 [TX-03 · OBJETIVO]
 Em 2 anos quero ser Arquiteta de Software numa corporação de impacto.
-Determinada a consolidar minha base técnica enquanto construo sistemas que
+de 2026 a 2028 estou determinada a consolidar minha base técnica enquanto construo sistemas que
 fazem sentido para o negócio — não só para o compilador.
 ```
 
 ---
 
-## ▸ ARSENAL TECNOLÓGICO
-
-**Propulsão principal**
-
-![Python](https://img.shields.io/badge/Python-030a18?style=for-the-badge&logo=python&logoColor=5a9fd4)
-![Automação](https://img.shields.io/badge/Automacao-030a18?style=for-the-badge&logo=githubactions&logoColor=2ecc71)
-
-**Módulo orbital — Cloud & Infra**
-
-![Oracle OCI](https://img.shields.io/badge/Oracle_OCI-030a18?style=for-the-badge&logo=oracle&logoColor=e74c3c)
-![Linux](https://img.shields.io/badge/Linux-030a18?style=for-the-badge&logo=linux&logoColor=f0c040)
-![Docker](https://img.shields.io/badge/Docker-030a18?style=for-the-badge&logo=docker&logoColor=5a9fd4)
-
-**Núcleo de dados**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-030a18?style=for-the-badge&logo=postgresql&logoColor=5a9fd4)
-![MongoDB](https://img.shields.io/badge/MongoDB-030a18?style=for-the-badge&logo=mongodb&logoColor=2ecc71)
-
-**Sistema visual — Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-030a18?style=for-the-badge&logo=javascript&logoColor=f39c12)
-![React](https://img.shields.io/badge/React-030a18?style=for-the-badge&logo=react&logoColor=61dafb)
-![HTML5](https://img.shields.io/badge/HTML5-030a18?style=for-the-badge&logo=html5&logoColor=e74c3c)
-
-> 📡 _Trajetória ascendente — todos os sistemas em expansão ativa._
-
----
 
 ## ▸ PROJETO EM DESTAQUE
 
@@ -106,7 +71,7 @@ fazem sentido para o negócio — não só para o compilador.
 
 > _"As melhores arquiteturas começam em livros, não em telas."_
 
-Fundadora da **Leitura Técnica** — uma marca de incentivo à leitura que conecta o mundo da tecnologia com o hábito de ler. Porque ler bem é uma vantagem competitiva que poucos desenvolvedores cultivam.
+Fundadora da **Leitura Técnica** — uma marca de incentivo à leitura que conecta o mundo da tecnologia com o hábito de ler. Porque ler bem é uma vantagem competitiva.
 
 ---
 
