@@ -19,12 +19,10 @@
 Dev Full Stack júnior com alma de Solution Engineer. 
 
 [TX-02 · MINHA DIFERENÇA]
-Meu superpoder é a visão de negócio.
+Meu superpoder é a criatividade combinada com visão de negócio.
 
 [TX-03 · OBJETIVO]
-Em 2 anos quero ser Arquiteta de Software numa corporação de impacto.
-Estou determinada a consolidar minha base técnica enquanto construo sistemas que
-fazem sentido para o negócio — não só para o compilador.
+Consolidar minha base técnica através da construção de projetos reais, desenvolvendo sistemas que conectam tecnologia, dados e necessidades do negócio.
 ```
 
 ---
