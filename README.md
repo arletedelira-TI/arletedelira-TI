@@ -22,7 +22,8 @@ Dev Full Stack júnior com alma de Solution Engineer.
 Meu superpoder é a criatividade combinada com visão de negócio.
 
 [TX-03 · OBJETIVO]
-Consolidar minha base técnica através da construção de projetos reais, desenvolvendo sistemas que conectam tecnologia, dados e necessidades do negócio.
+Consolidar minha base técnica através da construção de projetos reais,
+desenvolvendo sistemas que conectam tecnologia, dados e necessidades do negócio.
 ```
 
 ---
@@ -69,7 +70,7 @@ Consolidar minha base técnica através da construção de projetos reais, desen
 
 > _"As melhores arquiteturas começam em livros, não em telas."_
 
-Fundadora da **Leitura Técnica** — uma marca de incentivo à leitura que conecta o mundo da tecnologia com o hábito de ler. Porque ler bem é uma vantagem competitiva.
+Fundadora da **Leitura Técnica** — uma marca de incentivo à leitura que conecta o mundo da tecnologia com o hábito de ler.
 
 ---
 
