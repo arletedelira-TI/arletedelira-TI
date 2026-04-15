@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-030a18?style=flat-square&logo=python&logoColor=5a9fd4)
 ![Linux](https://img.shields.io/badge/Linux-030a18?style=flat-square&logo=linux&logoColor=f0c040)
-![JavaScript](https://img.shields.io/badge/JavaScript-030a18?style=flat-square&logo=javascript&logoColor=f39c12)
+
 
 </div>
 
