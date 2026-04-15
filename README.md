@@ -16,7 +16,7 @@
 
 ```
 [TX-01 · QUEM SOU]
-Dev Full Stack júnior com alma de Solution Engineer. 
+Solution Engineer de profissão, apaixnada por tecnologia e inovação. 
 
 [TX-02 · MINHA DIFERENÇA]
 Meu superpoder é a criatividade combinada com visão de negócio.
@@ -24,6 +24,7 @@ Meu superpoder é a criatividade combinada com visão de negócio.
 [TX-03 · OBJETIVO]
 Consolidar minha base técnica através da construção de projetos reais,
 desenvolvendo sistemas que conectam tecnologia, dados e necessidades do negócio.
+Atualmente estou em transição de carreira de solution engineer para software engineer.
 ```
 
 ---
