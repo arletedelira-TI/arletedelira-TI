@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1200&color=5A9FD4&center=true&vCenter=true&width=500&lines=%7C+Solution+Engineer+→+Software+Engineer;Dados+%7C+Automacao+%7C+Python;Determinada+a+consolidar+meus+conhecimentos+na+area+tech;Fundadora+da+Leitura+Tecnica)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1200&color=5A9FD4&center=true&vCenter=true&width=500&lines=Solution+Engineer+→+Software+Engineer;Dados+%7C+Automacao+%7C+Python;Determinada+a+consolidar+meus+conhecimentos+na+area+tech;)](https://git.io/typing-svg)
 
 <br>
 
@@ -64,14 +64,6 @@ Atualmente estou em transição de carreira de solution engineer para software e
 │      STEM — fundamentos de engenharia, matemática e tecnologia.  │
 └──────────────────────────────────────────────────────────────────┘
 ```
-
----
-
-## ▸ MÓDULO ESPECIAL — LEITURA TÉCNICA 📚
-
-> _"As melhores arquiteturas começam em livros, não em telas."_
-
-Fundadora da **Leitura Técnica** — uma marca de incentivo à leitura que conecta o mundo da tecnologia com o hábito de ler.
 
 ---
 
