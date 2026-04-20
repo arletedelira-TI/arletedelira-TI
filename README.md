@@ -20,7 +20,7 @@ Solution Engineer de profissão, apaixonada por tecnologia e inovação.
 
 ---
 
----
+```
 
 ## ▸ DADOS DE TELEMETRIA
 
