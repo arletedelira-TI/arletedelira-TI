@@ -16,9 +16,7 @@
 
 ```
 [TX-01 · QUEM SOU]
-Solution Engineer de profissão, apaixonada por tecnologia e inovação. 
-
----
+Solution Engineer apaixonada por tecnologia e inovação. 
 
 ```
 
