@@ -16,54 +16,9 @@
 
 ```
 [TX-01 · QUEM SOU]
-Solution Engineer de profissão, apaixnada por tecnologia e inovação. 
-
-[TX-02 · MINHA DIFERENÇA]
-Meu superpoder é a criatividade combinada com visão de negócio.
-
-[TX-03 · OBJETIVO]
-Consolidar minha base técnica através da construção de projetos reais,
-desenvolvendo sistemas que conectam tecnologia, dados e necessidades do negócio.
-Atualmente estou em transição de carreira de solution engineer para software engineer.
-```
+Solution Engineer de profissão, apaixonada por tecnologia e inovação. 
 
 ---
-
-
-## ▸ PROJETO EM DESTAQUE
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🤖  AUTOMAÇÃO DE POSTAGEM · BLOGGER                [DESTAQUE]  │
-│                                                                  │
-│  Script de automação para publicação automática de posts no      │
-│  Blogger. Um projeto que une minha paixão por leitura com minha  │
-│  evolução técnica — automatizando o que era manual, liberando    │
-│  tempo para o que realmente importa.                             │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## ▸ HISTÓRICO DE VOO
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  🔴  ORACLE — Solution Engineer                                  │
-│      ago 2021 → set 2024  ·  3 anos 2 meses                     │
-│      Pré-vendas técnica, análise de ambientes, simulações de     │
-│      disaster recovery, apresentações executivas, suporte a      │
-│      estratégias de migração cloud.                              │
-├──────────────────────────────────────────────────────────────────┤
-│  🔵  ETEC GETÚLIO VARGAS — Técnico em Análise de Sistemas        │
-│      jan 2026 → dez 2027  ·  em curso                           │
-│      Desenvolvimento e evolução de sistemas computacionais.      │
-├──────────────────────────────────────────────────────────────────┤
-│  🟣  UNIV. SÃO JUDAS TADEU — Computer Engineering               │
-│      jan 2022 → jan 2024                                         │
-│      STEM — fundamentos de engenharia, matemática e tecnologia.  │
-└──────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
