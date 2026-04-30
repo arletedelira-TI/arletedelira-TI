@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1200&color=5A9FD4&center=true&vCenter=true&width=500&lines=Solution+Engineer+→+Software+Engineer;Determinada+a+consolidar+meus+conhecimentos+na+area+tech;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1200&color=5A9FD4&center=true&vCenter=true&width=500&lines=Solution+Engineer++(2021-2025)+→+Software+Engineer+(2026-2030);Determinada+a+consolidar+meus+conhecimentos+na+area+tech;)](https://git.io/typing-svg)
 
 <br>
 
