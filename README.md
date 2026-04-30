@@ -1,12 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1200&color=5A9FD4&center=true&vCenter=true&width=500&lines=Solution+Engineer+→+Software+Engineer;Dados+%7C+Automação+%7C+AI;Determinada+a+consolidar+meus+conhecimentos+na+area+tech;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1200&color=5A9FD4&center=true&vCenter=true&width=500&lines=Solution+Engineer+→+Software+Engineer;Determinada+a+consolidar+meus+conhecimentos+na+area+tech;)](https://git.io/typing-svg)
 
 <br>
-
-![Python](https://img.shields.io/badge/Python-030a18?style=flat-square&logo=python&logoColor=5a9fd4)
-![Linux](https://img.shields.io/badge/Linux-030a18?style=flat-square&logo=linux&logoColor=f0c040)
-
 
 </div>
 
