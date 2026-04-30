@@ -8,14 +8,6 @@
 
 ---
 
-## ▸ LOG DE MISSÃO
-
-```
-[TX-01 · QUEM SOU]
-Solution Engineer apaixonada por tecnologia e inovação. 
-
-```
-
 ## ▸ DADOS DE TELEMETRIA
 
 <div align="center">
@@ -46,7 +38,7 @@ Solution Engineer apaixonada por tecnologia e inovação.
 
 ```
 ● SISTEMA ATIVO
-DETERMINADA A CONSOLIDAR · ARQUITETA EM FORMAÇÃO · FULL STACK · 2026
+DETERMINADA A CONSOLIDAR ·ENGENHEIRA EM FORMAÇÃO · FULL STACK · 2026
 ```
 
 </div>
