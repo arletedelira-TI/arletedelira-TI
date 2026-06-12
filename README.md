@@ -22,8 +22,6 @@
 
 ---
 
-## ▸ INFORMAÇÕES DE CONTATO
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-030a18?style=for-the-badge&logo=linkedin&logoColor=5aafff)](https://linkedin.com/in/arletedelira/)
