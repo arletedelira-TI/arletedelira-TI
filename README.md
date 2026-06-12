@@ -22,7 +22,7 @@
 
 ---
 
-## ▸ ESTABELECER CONTATO
+## ▸ INFORMAÇÕES DE CONTATO
 
 <div align="center">
 
@@ -34,11 +34,3 @@
 
 ---
 
-<div align="center">
-
-```
-● SISTEMA ATIVO
-DETERMINADA A CONSOLIDAR ·ENGENHEIRA EM FORMAÇÃO · FULL STACK · 2026
-```
-
-</div>
